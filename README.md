@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adnan (Full Stack developer)</h1>
 <h3 align="center">A passionate Full Stack developer Who loves to work on both frontend and backend</h3>
 
-- 🌱 I’m currently learning Software Architecture
-
 - 💬 Ask me about **React ,React Native ,Next ,Node ,Express ,Mongodb ,Nest**
 
 <h3 align="left">Connect with me:</h3>
